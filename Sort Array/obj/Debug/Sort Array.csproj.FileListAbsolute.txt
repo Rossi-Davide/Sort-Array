@@ -1,0 +1,7 @@
+C:\Users\davide.rossi.3I\source\repos\Sort Array\Sort Array\bin\Debug\Sort Array.exe.config
+C:\Users\davide.rossi.3I\source\repos\Sort Array\Sort Array\bin\Debug\Sort Array.exe
+C:\Users\davide.rossi.3I\source\repos\Sort Array\Sort Array\bin\Debug\Sort Array.pdb
+C:\Users\davide.rossi.3I\source\repos\Sort Array\Sort Array\obj\Debug\Sort Array.csproj.AssemblyReference.cache
+C:\Users\davide.rossi.3I\source\repos\Sort Array\Sort Array\obj\Debug\Sort Array.csproj.CoreCompileInputs.cache
+C:\Users\davide.rossi.3I\source\repos\Sort Array\Sort Array\obj\Debug\Sort Array.exe
+C:\Users\davide.rossi.3I\source\repos\Sort Array\Sort Array\obj\Debug\Sort Array.pdb

@@ -15,6 +15,18 @@ namespace Sort_Array
 
 
             Array.Sort(array);
+
+            PrintArray(array);
+        }
+
+
+        static void PrintArray(int[] array)
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.WriteLine(array[i]);
+            }
+            Console.ReadLine(); 
         }
     }
 }
